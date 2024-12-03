@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace Garage_System2
 {
@@ -23,7 +19,7 @@ namespace Garage_System2
                 string connectionString = "Data Source=DESKTOP-2042M6B\\SQLEXPRESS;Initial Catalog=Garage_MNGMT_SYSTEM;Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
 
                 // Define the query to check user credentials
-                string query = "SELECT COUNT(1) FROM Users WHERE Username=@Username AND Password=@Password AND Role=@Role";
+                string query = "SELECT COUNT(1) FROM Users WHERE Email=@Email AND Password=@Password AND Role=@Role";
 
                 // Create a new SQL connection
                 using (SqlConnection connection = new SqlConnection(connectionString))
@@ -32,7 +28,7 @@ namespace Garage_System2
                     SqlCommand command = new SqlCommand(query, connection);
 
                     // Add parameters to the SQL command
-                    command.Parameters.AddWithValue("@Username", usernameBox.Text);
+                    command.Parameters.AddWithValue("@Email", emailBox.Text);
                     command.Parameters.AddWithValue("@Password", passwordBox.Text);
                     command.Parameters.AddWithValue("@Role", roleBox.SelectedValue.ToString());
 
@@ -46,18 +42,24 @@ namespace Garage_System2
                     if (count == 1)
                     {
                         messageBox.Text = "Login successful!";
-                        if (roleBox.SelectedValue.ToString() == "Applicant") 
-                        { 
-                            Response.Redirect("ApplicantForm.aspx"); 
-                        } else if (roleBox.SelectedValue.ToString() == "Client") 
+                        if (roleBox.SelectedValue.ToString() == "Client")
                         {
-                            Response.Redirect("BookingForm.aspx");
+                            // Redirect to ClientBookingInfo.aspx with email as query parameter
+                            Response.Redirect("ClientBookingInfo.aspx?email=" + emailBox.Text);
                         }
-                        else
-                        { 
-                            // Redirect to a different page for other roles
-                             Response.Redirect("Login.aspx"); }
+                        else if (roleBox.SelectedValue.ToString() == "Applicant")
+                        {
+                            Response.Redirect("ApplicantForm.aspx");
                         }
+                        else if (roleBox.SelectedValue.ToString() == "Employee")
+                        {
+                            Response.Redirect("EmployeeDashboard.aspx");
+                        }
+                        else if (roleBox.SelectedValue.ToString() == "Admin")
+                        {
+                            Response.Redirect("AdminDashboard.aspx");
+                        }
+                    }
                     else
                     {
                         messageBox.Text = "Invalid Credentials.";

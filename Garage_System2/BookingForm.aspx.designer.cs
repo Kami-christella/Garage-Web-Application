@@ -24,13 +24,22 @@ namespace Garage_System2
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// LabelName control.
+        /// ButtonLogin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelName;
+        protected global::System.Web.UI.WebControls.Button ButtonLogin;
+
+        /// <summary>
+        /// LabelMessage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelMessage;
 
         /// <summary>
         /// TextBoxName control.
@@ -42,15 +51,6 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.TextBox TextBoxName;
 
         /// <summary>
-        /// LabelPhone control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelPhone;
-
-        /// <summary>
         /// TextBoxPhone control.
         /// </summary>
         /// <remarks>
@@ -58,15 +58,6 @@ namespace Garage_System2
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBoxPhone;
-
-        /// <summary>
-        /// LabelEmail control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelEmail;
 
         /// <summary>
         /// TextBoxEmail control.
@@ -78,85 +69,40 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.TextBox TextBoxEmail;
 
         /// <summary>
-        /// LabelMake control.
+        /// TextBoxAddress control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelMake;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxAddress;
 
         /// <summary>
-        /// TextBoxMake control.
+        /// TextBoxCarMake control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxMake;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxCarMake;
 
         /// <summary>
-        /// LabelModel control.
+        /// TextBoxCarModel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelModel;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxCarModel;
 
         /// <summary>
-        /// TextBoxModel control.
+        /// TextBoxModelYear control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxModel;
-
-        /// <summary>
-        /// LabelYear control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelYear;
-
-        /// <summary>
-        /// TextBoxYear control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxYear;
-
-        /// <summary>
-        /// LabelLicensePlate control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelLicensePlate;
-
-        /// <summary>
-        /// TextBoxLicensePlate control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxLicensePlate;
-
-        /// <summary>
-        /// LabelServiceType control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelServiceType;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxModelYear;
 
         /// <summary>
         /// CheckBoxListServiceType control.
@@ -168,15 +114,6 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.CheckBoxList CheckBoxListServiceType;
 
         /// <summary>
-        /// LabelAdditionalNotes control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelAdditionalNotes;
-
-        /// <summary>
         /// TextBoxAdditionalNotes control.
         /// </summary>
         /// <remarks>
@@ -186,49 +123,13 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.TextBox TextBoxAdditionalNotes;
 
         /// <summary>
-        /// LabelBookingDateTime control.
+        /// TextBoxBookingDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelBookingDateTime;
-
-        /// <summary>
-        /// TextBoxBookingDateTime control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxBookingDateTime;
-
-        /// <summary>
-        /// LabelPreferredServiceDateTime control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelPreferredServiceDateTime;
-
-        /// <summary>
-        /// TextBoxPreferredServiceDateTime control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxPreferredServiceDateTime;
-
-        /// <summary>
-        /// LabelPaymentMethod control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelPaymentMethod;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxBookingDate;
 
         /// <summary>
         /// DropDownListPaymentMethod control.
@@ -240,15 +141,6 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.DropDownList DropDownListPaymentMethod;
 
         /// <summary>
-        /// LabelEstimatedCost control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelEstimatedCost;
-
-        /// <summary>
         /// TextBoxEstimatedCost control.
         /// </summary>
         /// <remarks>
@@ -258,31 +150,22 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.TextBox TextBoxEstimatedCost;
 
         /// <summary>
-        /// LabelTermsConditions control.
+        /// TextBoxStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelTermsConditions;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxStatus;
 
         /// <summary>
-        /// CheckBoxTermsConditions control.
+        /// TextBoxLicensePlate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox CheckBoxTermsConditions;
-
-        /// <summary>
-        /// LabelMessage control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelMessage;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxLicensePlate;
 
         /// <summary>
         /// ButtonSubmit control.

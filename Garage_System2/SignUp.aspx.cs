@@ -62,6 +62,7 @@ namespace Garage_System2
                         if (rowsAffected > 0)
                         {
                             messageBox.Text = "Account Created!";
+                            Response.Redirect("Login.aspx");
                         }
                         else
                         {

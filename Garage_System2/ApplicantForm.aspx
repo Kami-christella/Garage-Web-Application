@@ -57,6 +57,10 @@
                 <asp:Label ID="LabelEmail" runat="server" Text="Email" CssClass="control-label"></asp:Label>
                 <asp:TextBox ID="TextBoxEmail" runat="server" CssClass="form-control"></asp:TextBox>
             </div>
+             <div class="form-group">
+     <asp:Label ID="Label2" runat="server" Text="Address" CssClass="control-label"></asp:Label>
+     <asp:TextBox ID="addressBox" runat="server" CssClass="form-control"></asp:TextBox>
+ </div>
             <div class="form-group">
                 <asp:Label ID="LabelYearsOfExperience" runat="server" Text="Years of Experience" CssClass="control-label"></asp:Label>
                 <asp:TextBox ID="TextBoxYearsOfExperience" runat="server" CssClass="form-control" TextMode="Number"></asp:TextBox>

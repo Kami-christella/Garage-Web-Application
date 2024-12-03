@@ -11,7 +11,7 @@ namespace Garage_System2
 {
 
 
-    public partial class HomePage
+    public partial class Dashboard
     {
 
         /// <summary>
@@ -24,21 +24,12 @@ namespace Garage_System2
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// ButtonLogin control.
+        /// ClientsGridView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonLogin;
-
-        /// <summary>
-        /// ButtonSignup control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonSignup;
+        protected global::System.Web.UI.WebControls.GridView ClientsGridView;
     }
 }

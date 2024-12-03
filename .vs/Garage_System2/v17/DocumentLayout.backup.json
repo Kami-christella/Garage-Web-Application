@@ -3,48 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\adminmngmt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\adminmngmt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\clientbookinginfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\clientbookinginfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\clientbookinginfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\clientbookinginfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\addclient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\addclient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\bookingform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\bookingform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\bookingform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\bookingform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\employees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\employees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\applicantform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\applicantform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\addbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\addbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\bookingform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\bookingform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\bookingform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\bookingform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\adminmngmt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\adminmngmt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\addbooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\addbooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\addclient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\addclient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\applicantform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\applicantform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|C:\\Users\\Kami\\source\\repos\\Garage_System2\\garage_system2\\applicantform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\applicantform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|c:\\users\\kami\\source\\repos\\garage_system2\\garage_system2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF1BA2C6-53C6-4CC3-A11A-3589439EBBD1}|Garage_System2\\Garage_System2.csproj|solutionrelative:garage_system2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +98,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientBookingInfo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ClientBookingInfo.aspx.cs",
+              "RelativeDocumentMoniker": "Garage_System2\\ClientBookingInfo.aspx.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ClientBookingInfo.aspx.cs",
+              "RelativeToolTip": "Garage_System2\\ClientBookingInfo.aspx.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:43:15.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientBookingInfo.aspx",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ClientBookingInfo.aspx",
+              "RelativeDocumentMoniker": "Garage_System2\\ClientBookingInfo.aspx",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ClientBookingInfo.aspx",
+              "RelativeToolTip": "Garage_System2\\ClientBookingInfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T17:41:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddBooking.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddBooking.aspx.cs",
+              "RelativeDocumentMoniker": "Garage_System2\\AddBooking.aspx.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddBooking.aspx.cs",
+              "RelativeToolTip": "Garage_System2\\AddBooking.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:36:44.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddBooking.aspx",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddBooking.aspx",
+              "RelativeDocumentMoniker": "Garage_System2\\AddBooking.aspx",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddBooking.aspx",
+              "RelativeToolTip": "Garage_System2\\AddBooking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T16:35:54.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddClient.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddClient.aspx.cs",
+              "RelativeDocumentMoniker": "Garage_System2\\AddClient.aspx.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddClient.aspx.cs",
+              "RelativeToolTip": "Garage_System2\\AddClient.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:10:34.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddClient.aspx",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddClient.aspx",
+              "RelativeDocumentMoniker": "Garage_System2\\AddClient.aspx",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AddClient.aspx",
+              "RelativeToolTip": "Garage_System2\\AddClient.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T16:07:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Garage_System2\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "Garage_System2\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:07:48.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "Garage_System2\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AdminDashboard.aspx",
+              "RelativeToolTip": "Garage_System2\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T15:07:25.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\BookingForm.aspx.cs",
+              "RelativeDocumentMoniker": "Garage_System2\\BookingForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\BookingForm.aspx.cs",
+              "RelativeToolTip": "Garage_System2\\BookingForm.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:25:05.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\Web.config",
+              "RelativeDocumentMoniker": "Garage_System2\\Web.config",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\Web.config",
+              "RelativeToolTip": "Garage_System2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T13:20:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\HomePage.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\HomePage.aspx",
@@ -75,19 +241,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "ApplicantForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ApplicantForm.aspx.cs",
               "RelativeDocumentMoniker": "Garage_System2\\ApplicantForm.aspx.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ApplicantForm.aspx.cs",
               "RelativeToolTip": "Garage_System2\\ApplicantForm.aspx.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:31:50.683Z"
+              "WhenOpened": "2024-11-28T18:31:50.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "ApplicantForm.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\ApplicantForm.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\ApplicantForm.aspx",
@@ -95,23 +262,12 @@
               "RelativeToolTip": "Garage_System2\\ApplicantForm.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-28T18:15:56.2Z"
+              "WhenOpened": "2024-11-28T18:15:56.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingForm.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\BookingForm.aspx.cs",
-              "RelativeDocumentMoniker": "Garage_System2\\BookingForm.aspx.cs",
-              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\BookingForm.aspx.cs",
-              "RelativeToolTip": "Garage_System2\\BookingForm.aspx.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:11:19.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "BookingForm.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\BookingForm.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\BookingForm.aspx",
@@ -124,32 +280,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Garage_System2\\Login.aspx.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\Login.aspx.cs",
               "RelativeToolTip": "Garage_System2\\Login.aspx.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwD8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:33:18.194Z"
+              "WhenOpened": "2024-11-28T13:33:18.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SignUp.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\SignUp.aspx.cs",
               "RelativeDocumentMoniker": "Garage_System2\\SignUp.aspx.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\SignUp.aspx.cs",
               "RelativeToolTip": "Garage_System2\\SignUp.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T10:27:03.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Employees.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\Employees.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\Employees.aspx",
@@ -157,11 +314,12 @@
               "RelativeToolTip": "Garage_System2\\Employees.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-28T08:55:41.286Z"
+              "WhenOpened": "2024-11-28T08:55:41.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "AdminMNGMT.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\AdminMNGMT.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\AdminMNGMT.aspx",
@@ -174,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\Login.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\Login.aspx",
@@ -187,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SignUp.aspx",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Garage_System2\\Garage_System2\\SignUp.aspx",
               "RelativeDocumentMoniker": "Garage_System2\\SignUp.aspx",

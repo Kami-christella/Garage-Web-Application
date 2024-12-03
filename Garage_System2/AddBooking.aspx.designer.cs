@@ -11,7 +11,7 @@ namespace Garage_System2
 {
 
 
-    public partial class ApplicantForm
+    public partial class AddBooking
     {
 
         /// <summary>
@@ -24,31 +24,31 @@ namespace Garage_System2
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// LabelFullName control.
+        /// LabelMessage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelFullName;
+        protected global::System.Web.UI.WebControls.Label LabelMessage;
 
         /// <summary>
-        /// TextBoxFullName control.
+        /// TextBoxName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxFullName;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxName;
 
         /// <summary>
-        /// LabelEmail control.
+        /// TextBoxTelephone control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelEmail;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxTelephone;
 
         /// <summary>
         /// TextBoxEmail control.
@@ -60,121 +60,103 @@ namespace Garage_System2
         protected global::System.Web.UI.WebControls.TextBox TextBoxEmail;
 
         /// <summary>
-        /// Label2 control.
+        /// TextBoxAddress control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxAddress;
 
         /// <summary>
-        /// addressBox control.
+        /// TextBoxCarMake control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox addressBox;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxCarMake;
 
         /// <summary>
-        /// LabelYearsOfExperience control.
+        /// TextBoxCarModel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelYearsOfExperience;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxCarModel;
 
         /// <summary>
-        /// TextBoxYearsOfExperience control.
+        /// TextBoxModelYear control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxYearsOfExperience;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxModelYear;
 
         /// <summary>
-        /// LabelLevelOfEducation control.
+        /// TextBoxServiceType control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelLevelOfEducation;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxServiceType;
 
         /// <summary>
-        /// DropDownListLevelOfEducation control.
+        /// TextBoxAdditionalNotes control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownListLevelOfEducation;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxAdditionalNotes;
 
         /// <summary>
-        /// LabelDateOfBirth control.
+        /// TextBoxBookingDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelDateOfBirth;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxBookingDate;
 
         /// <summary>
-        /// TextBoxDateOfBirth control.
+        /// DropDownListPaymentMethod control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxDateOfBirth;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListPaymentMethod;
 
         /// <summary>
-        /// LabelDegree control.
+        /// TextBoxEstimatedCost control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelDegree;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxEstimatedCost;
 
         /// <summary>
-        /// TextBoxDegree control.
+        /// TextBoxStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxDegree;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxStatus;
 
         /// <summary>
-        /// Label1 control.
+        /// TextBoxLicensePlate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
-
-        /// <summary>
-        /// DescriptionBox control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox DescriptionBox;
-
-        /// <summary>
-        /// LabelMessage control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelMessage;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxLicensePlate;
 
         /// <summary>
         /// ButtonSubmit control.
@@ -184,5 +166,14 @@ namespace Garage_System2
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button ButtonSubmit;
+
+        /// <summary>
+        /// ButtonBackToDashboard control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonBackToDashboard;
     }
 }

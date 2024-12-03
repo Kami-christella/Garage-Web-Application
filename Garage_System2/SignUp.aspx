@@ -41,14 +41,16 @@
                 font-size: 18px;
             }
     </style>
-    <title>SignUp</title>
+    <title>Sign Up</title>
 
 </head>
 <body>
+    
+
     <form id="form1" runat="server" class="signup-form">
         <h1 class="text-center">SignUp</h1>
         <div class="form-group text-center">
-            <asp:Label ID="messageBox" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="messageBox" runat="server" Text=""></asp:Label>
 
         </div>
             
@@ -83,6 +85,7 @@
                     <asp:ListItem Text="Select Role" Value="" />
                     <asp:ListItem Text="Applicant" Value="Applicant" />
                     <asp:ListItem Text="Client" Value="Client" />
+                  
 
                 </asp:DropDownList>
 

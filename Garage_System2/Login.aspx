@@ -47,15 +47,10 @@
     <form id="form1" runat="server" class="signup-form">
         <h1 class="text-center">LogIn</h1>
         <div class="form-group text-center">
-            <asp:Label ID="messageBox" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="messageBox" runat="server" Text=""></asp:Label>
 
         </div>
-        <div class="form-group">
-            <asp:Panel ID="Panel1" runat="server">
-                <asp:Label ID="Label1" runat="server" Text="Username" CssClass="control-label"></asp:Label>
-                <asp:TextBox ID="usernameBox" runat="server" CssClass="form-control"></asp:TextBox>
-            </asp:Panel>
-        </div>
+      
         <div class="form-group">
             <asp:Panel ID="Panel2" runat="server">
                 <asp:Label ID="Label2" runat="server" Text="Email" CssClass="control-label"></asp:Label>
@@ -73,7 +68,7 @@
                 <asp:Label ID="Label4" runat="server" Text="Role" CssClass="control-label"></asp:Label>
                 <asp:DropDownList ID="roleBox" runat="server" CssClass="form-control">
                     <asp:ListItem Text="Select Role" Value="" />
-                    <asp:ListItem Text="Applicant" Value="Applicant" />
+                    <asp:ListItem Text="Mechanics" Value="Applicant" />
                     <asp:ListItem Text="Client" Value="Client" />
                     <asp:ListItem Text="Employee" Value="Employee" />
                     <asp:ListItem Text="Admin" Value="Admin" />
